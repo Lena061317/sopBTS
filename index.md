@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 방탄소년단을 위한 사이트입니다. 
 
 You can use the [editor on GitHub](https://github.com/Lena061317/sopBTS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and  _gothic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
